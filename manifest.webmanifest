@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Гараж 211 · Ногинск",
+  "short_name": "Гараж 211",
+  "description": "Ремонт и детейлинг в Ногинске",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101010",
+  "theme_color": "#101010",
+  "icons": [
+    {
+      "src": "garage-logo.png",
+      "sizes": "640x640",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
